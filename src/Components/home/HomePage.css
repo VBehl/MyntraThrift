@@ -1,0 +1,29 @@
+/* HomePage.css */
+
+section {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding: 20px;
+  /* background-color: #f9f9f9; */
+  background-color: pink;
+}
+
+section > * {
+  flex: 1 1 calc(20% - 30px); /* Adjusted flex value for smaller size */
+  box-sizing: border-box;
+  margin: 10px; /* Reduced margin for tighter spacing */
+}
+
+@media (max-width: 768px) {
+  section > * {
+    flex: 1 1 calc(25% - 20px); /* Adjusted for medium screens */
+  }
+}
+
+@media (max-width: 480px) {
+  section > * {
+    flex: 1 1 100%; /* Full width for smaller screens */
+    margin: 5px; /* Adjusted margin for smaller screens */
+  }
+}

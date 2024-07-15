@@ -1,0 +1,106 @@
+/* Base styles */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif; /* Choose your preferred font family */
+}
+
+/* Navbar styles */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 20px;
+  background-color: #F13AB1;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+  position: fixed; /* Fixed positioning for navbar */
+  top: 0; /* Position at the top of the viewport */
+  left: 0; /* Position at the left of the viewport */
+  width: 100%; /* Stretch navbar across the entire width */
+  z-index: 1000; /* Ensure navbar stays on top of content */
+  cursor: pointer;
+  
+}
+
+.navbar h2 {
+  font-size: 1.5em;
+  margin: 0;
+  color: white;
+  font-weight: bold;
+  
+}
+
+.navbar-ul {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+  
+}
+
+.navbar-ul li {
+  margin-right: 40px; /* Spacing between links */
+}
+
+/* .navbar-ul li:last-child {
+  margin-right: 0;
+} */
+
+.navbar-ul li a {
+  text-decoration: none;
+  color: #333; /* Default link color */
+  transition: color 0.3s ease;
+}
+
+.navbar-ul li:hover a {
+  color: #F13AB1;; /* Hover color */
+}
+
+.navbar-ul .card-count {
+  font-size: 0.8em;
+  font-weight: bold;
+  background-color: white;
+  color: #fff;
+  padding: 5px 10px;
+  border-radius: 2px;
+  margin-left: 5px; /* Spacing for card count */
+}
+
+.nav-btn {
+  padding: 10px 20px;
+  margin-right: 15px;
+  font-size: 1em;
+  background-color:pink;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.nav-btn:hover {
+  background-color:#F13AB1;;
+}
+
+/* Responsiveness */
+@media screen and (max-width: 768px) {
+  .navbar h2 {
+    font-size: 1.2em;
+  }
+  .navbar-ul li {
+    margin-right: 10px; /* Adjust spacing for smaller screens */
+  }
+  .nav-btn {
+    padding: 5px 10px; /* Adjust button padding */
+  }
+}
+
+/* Content Area (Optional) */
+.content {
+  padding-top: 80px; /* Adjust based on your navbar height */
+  min-height: calc(100vh - 80px); /* Minimum content height for full viewport */
+}
+.order{
+  padding: 10px;
+}

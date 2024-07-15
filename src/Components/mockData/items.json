@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "name": "Denim Jeans",
+    "rating": 4.5,
+    "price": 19.99,
+    "saleDiscount": 0,
+    "image": "https://valentino-cdn.thron.com/delivery/public/image/valentino/9798aace-f32d-4d0d-bde4-0bd7be0d3d1c/ihqstx/std/500x0/BLUE-WASHED-DENIM-JEANS?quality=80&size=35&format=auto",
+    "brand": "YourBrand"
+  },
+  {
+    "id": 2,
+    "name": "Tshirt",
+    "rating": 4.8,
+    "price": 49.99,
+    "saleDiscount": 10,
+    "image": "https://assets.myntassets.com/w_412,q_60,dpr_2,fl_progressive/assets/images/17587470/2022/4/28/51112378-6f5f-43f0-a257-16f3fb5be4341651143779451-Difference-of-Opinion-Women-Orange-Typography-Printed-Pure-C-1.jpg",
+    "brand": "DenimCo"
+  },
+  {
+    "id": 3,
+    "name": "Leather Jacket",
+    "rating": 4.2,
+    "price": 129.99,
+    "saleDiscount": 0,
+    "image": "https://www.voganow.com/cdn/shop/files/BBGJ-1108-014_2_copy.jpg?v=1702101740&width=360",
+    "brand": "LeatherCraft"
+  },
+  {
+    "id": 4,
+    "name": "Casual Sneakers",
+    "rating": 4.6,
+    "price": 59.99,
+    "saleDiscount": 20,
+    "image": "https://5.imimg.com/data5/ANDROID/Default/2023/4/299430788/YW/PH/SK/19051907/product-jpeg-500x500.jpg",
+    "brand": "SneakerCo"
+  },
+  {
+    "id": 5,
+    "name": "Formal Shirt",
+    "rating": 4.3,
+    "price": 39.99,
+    "saleDiscount": 5,
+    "image": "https://www.alayacotton.in/cdn/shop/products/2096.jpg?v=1660554351",
+    "brand": "FormalWear"
+  },
+  {
+    "id": 6,
+    "name": "Sports Shorts",
+    "rating": 4.7,
+    "price": 29.99,
+    "saleDiscount": 0,
+    "image": "https://img3.junaroad.com/uiproducts/19607983/pri_175_p-1692024229.jpg",
+    "brand": "SportyGear"
+  },
+  {
+    "id": 7,
+    "name": "Summer Dress",
+    "rating": 4.9,
+    "price": 69.99,
+    "saleDiscount": 15,
+    "image": "https://homafy.com/wp-content/uploads/2024/04/unnamed-file.jpg",
+    "brand": "Fashionista"
+  },
+  {
+    "id": 8,
+    "name": "Smart Watch",
+    "rating": 4.4,
+    "price": 149.99,
+    "saleDiscount": 0,
+    "image": "https://m.media-amazon.com/images/I/61ZjlBOp+rL._AC_UF1000,1000_QL80_.jpg.jpg",
+    "brand": "TechWear"
+  },
+  {
+    "id": 9,
+    "name": "Backpack",
+    "rating": 4.6,
+    "price": 79.99,
+    "saleDiscount": 10,
+    "image": "https://mokobara.com/cdn/shop/products/The-Backpack_ML-1.webp?v=1717417970&width=2048",
+    "brand": "TravelGear"
+  },
+  {
+    "id": 10,
+    "name": "Evening Gown",
+    "rating": 4.8,
+    "price": 199.99,
+    "saleDiscount": 0,
+    "image": "https://i.pinimg.com/236x/2e/f3/54/2ef3540cafcfdd56f7b3f433bb35bbed.jpg",
+    "brand": "Glamour"
+  },
+  {
+    "id": 11,
+    "name": "Running Shoes",
+    "rating": 4.7,
+    "price": 89.99,
+    "saleDiscount": 0,
+    "image": "https://m.media-amazon.com/images/I/614aiM56siL._SL1500_.jpg",
+    "brand": "Runners"
+  },
+  {
+    "id": 12,
+    "name": "Winter Coat",
+    "rating": 4.5,
+    "price": 179.99,
+    "saleDiscount": 25,
+    "image": "https://m.media-amazon.com/images/I/71MlHIksisL._AC_UY1000_.jpg",
+    "brand": "WarmWear"
+  },
+  {
+    "id": 13,
+    "name": "Laptop Bag",
+    "rating": 4.2,
+    "price": 49.99,
+    "saleDiscount": 0,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKCu11PRxMgWxNhO57Zv30zqabny_KfvnQMw&s",
+    "brand": "TechGear"
+  },
+  {
+    "id": 14,
+    "name": "Cargo",
+    "rating": 4.6,
+    "price": 34.99,
+    "saleDiscount": 0,
+    "image": "https://assets.ajio.com/medias/sys_master/root/20230912/HJjz/64ff7327afa4cf41f5d99510/-473Wx593H-466562849-grey-MODEL.jpg",
+    "brand": "BeachWear"
+  },
+  {
+    "id": 15,
+    "name": "Fashion Sunglasses",
+    "rating": 4.3,
+    "price": 24.99,
+    "saleDiscount": 5,
+    "image": "https://m.media-amazon.com/images/I/41Dr9I4x1EL._AC_UY1100_.jpg",
+    "brand": "Eyewear"
+  }
+]
